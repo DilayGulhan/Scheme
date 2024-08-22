@@ -4,6 +4,9 @@
 ## Code Overview
 > The project includes Scheme code snippets for handling different operations and data structures:
 
-> 1. PART: Defines data structures and basic functions.
-> 2. PART: Processes and inspects data, checking for specific conditions.
-> 3. PART: Implements prime number testing, string length checks, and lambda function validation.
+### 1. PART:
+    Defines data structures and basic functions.
+### 2. PART:
+   Processes and inspects data, checking for specific conditions.
+### 3. PART:
+    Implements prime number testing, string length checks, and lambda function validation.
